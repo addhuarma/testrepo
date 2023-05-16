@@ -1,3 +1,4 @@
 created this file after learning how to push to git with alia
 adding name inplace of root under local working directory configuration
 adding another line from github account directly
+adding a line to try git fetch and git merge commands
